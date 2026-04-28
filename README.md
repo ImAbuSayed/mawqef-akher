@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور العين يا سحر الليل
+> في قلبي نار وفي روحي ميل
+> تعالي بقربي نعيش في خيال
+> شوقي لك فاق كل احتمال
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
