@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Mawqef Akher |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 29, 2026 |
+| Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mawqef-akher/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور العين يا سحر الليل
+> في قلبي نار وفي روحي ميل
+> تعالي بقربي نعيش في خيال
+> شوقي لك فاق كل احتمال
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
